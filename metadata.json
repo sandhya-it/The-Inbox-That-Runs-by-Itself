@@ -1,0 +1,6 @@
+{
+  "name": "The Inbox That Runs Itself",
+  "description": "A multi-agent support ticket automation system with a live pipeline view, exposing agent reasoning step-by-step.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
